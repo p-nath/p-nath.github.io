@@ -1,2 +1,2 @@
-# p-nath.github.io
+p-nath.github.io
 Personal Website of Priyanka Nath
