@@ -1,0 +1,35 @@
+// Extra Sections
+// EDUCATION
+            <section class="section experiences-section">
+                <h2 class="section-title"><i class="fa fa-briefcase"></i>Education</h2>
+                
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
+                            <h3 class="job-title">KIIT University (Kalinga Institute of Industrial Technology)</h3>
+                            <div class="time">July, 2015 - Present</div>
+                        </div> <!--//upper-row-->
+                        <div class="company">Bhubaneshwar, India</div>
+                    </div><!--//meta-->
+                    <div class="details">
+                        <p>College Sophomore,
+                        Bachelor of Technology in Information Technology<br/>Current GPA - 8.72/10</p>
+                    </div><!--//details-->
+                </div><!--//item--> 
+                
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
+                            <h3 class="job-title">South Point High School</h3>
+                            <div class="time">June, 2015</div>
+                        </div><!--//upper-row-->
+                        <div class="company">Kolkata, India</div>
+                    </div><!--//meta-->
+                    <div class="details">
+                        <p>All India Senior School Certificate Examination, CBSE (Grade 12) <br/>
+                        Secondary Examination, WBBSE (Grade 10)</p>  
+                        
+                    </div><!--//details-->
+                </div><!--//item-->
+                
+            </section><!--//section-->
